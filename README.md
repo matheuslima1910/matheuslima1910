@@ -9,7 +9,7 @@ Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando apre
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,c,mysql,php"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,mysql"/>
 
 </p>
 
