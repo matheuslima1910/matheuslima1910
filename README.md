@@ -9,7 +9,7 @@ Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando apre
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,mysql,nodejs"/>
 
 </p>
 
@@ -41,7 +41,7 @@ Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando apre
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheuslima1910&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima1910&layout=compact&custom_title=Tecnologias&langs_count9&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima1910&layout=compact&custom_title=Tecnologias&langs_count=9&theme=github_dark&hide_border=true"/>
 
 </div>
 
